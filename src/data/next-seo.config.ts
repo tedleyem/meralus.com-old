@@ -1,26 +1,26 @@
 import { NextSeoProps } from 'next-seo';
 
 const seoConfig: NextSeoProps = {
-  title: 'John Doe',
-  description: 'I’m John and I’m a Backend & Devops engineer!',
+  title: 'Tedley Meralus',
+  description: 'I’m Tedley and I’m a Software & Devops engineer.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://portfolio-next.smakosh.com/',
-    siteName: 'Portfolio Next',
+    url: 'https://meralus.com',
+    siteName: 'Tedley Meralus',
     images: [
       {
-        url: 'https://portfolio-next.smakosh.com/assets/thumbnail/thumbnail.png',
+        url: '',
         width: 1200,
         height: 600,
-        alt: 'I’m John and I’m a Backend & Devops engineer!',
+        alt: 'I’m Tedley and I’m a Software & Devops engineer.',
         type: 'image/png',
       },
     ],
   },
   twitter: {
-    handle: '@smakosh',
-    site: '@smakosh',
+    handle: '@techdadteddy',
+    site: '@techdadteddy',
     cardType: 'summary_large_image',
   },
 };

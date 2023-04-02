@@ -16,6 +16,11 @@ function NavBar() {
           <li>
             <a href="#about">About Me.</a>
           </li>
+          <li>
+            <a className="green-text" href="https://blog.meralus.com/">
+              {"#Blog "}
+            </a>
+          </li>
         </ul>
       </div>
     </nav>

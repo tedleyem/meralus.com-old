@@ -16,7 +16,7 @@ function Header() {
           <p>
             I design and build open source solutions, and I love what I do.
           </p>
-          <h2>Read my Docs</h2>
+          <h2 href="https://blog.meralus.com/">Read my guides</h2>
         </div>
         <div className="info-img">
           <img src={meralus} alt="" />

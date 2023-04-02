@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.71d95caa.js",
-    "static/js/787.5fec769a.chunk.js": "/static/js/787.5fec769a.chunk.js",
+    "main.js": "/static/js/main.e392f360.js",
+    "static/js/787.4d3d74c9.chunk.js": "/static/js/787.4d3d74c9.chunk.js",
     "static/media/ted-6-rings-devop.png": "/static/media/ted-6-rings-devop.f441f5de8c2dd90363ba.png",
     "static/media/docker-icon.svg": "/static/media/docker-icon.5acac4b4a9268616752dd9c3d466a35e.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -13,11 +13,11 @@
     "static/media/ansible-icon.svg": "/static/media/ansible-icon.ab91e3a61a54ef3edcded923e3d711d6.svg",
     "static/media/mobile-screen-button-solid.svg": "/static/media/mobile-screen-button-solid.0244319fed0c96fab55ef6238b383d69.svg",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.71d95caa.js.map": "/static/js/main.71d95caa.js.map",
-    "787.5fec769a.chunk.js.map": "/static/js/787.5fec769a.chunk.js.map"
+    "main.e392f360.js.map": "/static/js/main.e392f360.js.map",
+    "787.4d3d74c9.chunk.js.map": "/static/js/787.4d3d74c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.71d95caa.js"
+    "static/js/main.e392f360.js"
   ]
 }

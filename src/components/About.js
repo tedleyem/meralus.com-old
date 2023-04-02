@@ -14,18 +14,21 @@ function About() {
             desc="I create designs with playbooks with unique ideas to provide solutions for keeping applications running and secure."
             icon={ansible}
             projects={19}
+            url={"https://github.com/tmeralus?tab=repositories&q=ansible&type=&language=&sort="}
           />
           <AboutCard
             title="Docker"
             desc="I use docker to make monolithic applications portable and manageable."
             icon={docker}
-            projects={9}
+            projects={10}
+            url={"https://github.com/tmeralus?tab=repositories&q=docker&type=&language=&sort="}
           />
           <AboutCard
             title="Devops"
             desc="I develop cross-platform application solutions for multi-cloud environments"
             icon={phone}
             projects={7}
+            url={"https://github.com/tmeralus?tab=repositories&q=devops&type=&language=&sort="}
           />
         </div>
         <div className="about-info-1">

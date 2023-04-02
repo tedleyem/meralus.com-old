@@ -1,6 +1,6 @@
 import React from "react";
 
-function AboutCard({ title, icon, desc, projects }) {
+function AboutCard({ title, icon, desc, projects, url }) {
   return (
     <div className="about-card">
       <div className="about-card-1">

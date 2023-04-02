@@ -1,62 +1,72 @@
-# Meralus.com Portfolio
- Home page for Tedley Meralus
+# Developer Portfolio 
+![Screenshot](dev-portfolio.png)
 
 
-## Features
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- TypeScript
-- Eslint/Prettier configured
-- Scores 100% on a11y / Performance / PWA / SEO
-- Easy to customize
-- Nice project structure
-- Amazing illustrations by [Undraw.co](https://undraw.co)
-- Tablet & mobile friendly
-- Continuous deployment with [Vercel](https://vercel.com/?utm_source=smakosh)
-- A contact form protected by Google Recaptcha powered by Formspree
-- Can be deployed with one click
-- Fetches your Github pinned projects with most stars (You could customize this if you wish) using ISR
-- One click deployment to Vercel
+## Available Scripts
 
+In the project directory, you can run:
 
-### Locally
+### `npm start`
 
-1. Create an account at [Formspree](https://formspree.io/?utm_source=smakosh)
-2. Install [Pnpm](https://pnpm.io/)
-3. Grab your Github token from [GitHub](https://github.com/settings/tokens/new?scopes=public_repo&description=portfolio-dev)
-4. Run `cp .env.development.local.template .env.development.local`
-   > If you'd like to build the website locally, you will need to run `cp .env.development.local.template .env.development.local` as well and provide your env variables.
-5. Run `pnpm i && pnpm dev`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-   > You could run `vercel env pull` to get your env variables from Vercel.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-6. Make sure to edit the `src/data/config.ts` file
+### `npm test`
 
-### Deploying locally to Vercel
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-I highly recommend that you push to GitHub/GitLab and deploy your repository to Vercel instead or just hit the Deploy button.
+### `npm run build`
 
-## Built with
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- Adobe XD
-- Next js
-- Tailwindcss
-- TypeScript
-- Formspree
-- VSCode
-- And these useful of JavaScript libraries [package.json](package.json)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Developed by 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-[Gatsby-portfolio-portfolio](https://github.com/smakosh/gatsby-portfolio-dev)
- 
-## Design
+### `npm run eject`
 
-Project on [Behance](https://www.behance.net/gallery/74172961/Free-Gatsby-portfolio-for-developers)
- 
-## License
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details
- 
-## Support
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-If you love this Next js template and want to support development of the template, you can do so through the developers GitHub profile.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

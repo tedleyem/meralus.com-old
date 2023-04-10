@@ -50,8 +50,9 @@ function About() {
       </div>
       <div className="partner space-x">
         <div className="pat-img ">
+          <a href='https://ielectrosolutions.com'>
           <img src={Ielectro} alt="IelectroFix Solutions" />
-        </div>
+          </a></div>
         <div className="pat-img marg-top-2">
           <img src="" alt="" />
         </div>

@@ -3,6 +3,7 @@ import AboutCard from "./AboutCard";
 import phone from "../assets/icons/mobile-screen-button-solid.svg"; 
 import docker from "../assets/icons/docker-icon.svg";
 import ansible from "../assets/icons/ansible-icon.svg"; 
+import Ielectro from "../assets/images/partners/ielectro-fix-solutions.png"; 
 
 function About() {
   return (
@@ -49,7 +50,7 @@ function About() {
       </div>
       <div className="partner space-x">
         <div className="pat-img ">
-          <img src="" alt="" />
+          <img src={Ielectro} alt="IelectroFix Solutions" />
         </div>
         <div className="pat-img marg-top-2">
           <img src="" alt="" />

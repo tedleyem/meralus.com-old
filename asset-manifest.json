@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.8a644c27.js",
+    "main.js": "/static/js/main.635abd6e.js",
     "static/js/787.4d3d74c9.chunk.js": "/static/js/787.4d3d74c9.chunk.js",
     "static/media/ted-6-rings-devop.png": "/static/media/ted-6-rings-devop.f441f5de8c2dd90363ba.png",
     "static/media/ielectro-fix-solutions.png": "/static/media/ielectro-fix-solutions.b278ddc2d0edd2d12fa3.png",
@@ -14,11 +14,11 @@
     "static/media/ansible-icon.svg": "/static/media/ansible-icon.ab91e3a61a54ef3edcded923e3d711d6.svg",
     "static/media/mobile-screen-button-solid.svg": "/static/media/mobile-screen-button-solid.0244319fed0c96fab55ef6238b383d69.svg",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.8a644c27.js.map": "/static/js/main.8a644c27.js.map",
+    "main.635abd6e.js.map": "/static/js/main.635abd6e.js.map",
     "787.4d3d74c9.chunk.js.map": "/static/js/787.4d3d74c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.8a644c27.js"
+    "static/js/main.635abd6e.js"
   ]
 }

@@ -10,13 +10,13 @@ function Header() {
         <div className="info-1">
           <button>Software Engineer</button>
           <h1>
-            Talk is cheap.
-            <br /> Show me the code!
+            I am,
+            <br /> Because we are.
           </h1>
           <p>
-            I design and build open source solutions, and I love what I do.
+            I'm a software engineer that likes to build and utilize open source solutions and technologies.
           </p>
-          <h2 href="https://blog.meralus.com/">Read my guides</h2>
+            <h2><a href="https://github.com/tmeralus">My Projects</a></h2>
         </div>
         <div className="info-img">
           <img src={meralus} alt="" />

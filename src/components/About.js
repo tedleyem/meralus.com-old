@@ -19,7 +19,7 @@ function About() {
           />
           <AboutCard
             title="Docker"
-            desc="I use docker to make monolithic applications portable and manageable."
+              desc="I use docker to shrink monolithic applications and use modern practices to make them scalable."
             icon={docker}
             projects={10}
             url={"https://github.com/tmeralus?tab=repositories&q=docker&type=&language=&sort="}
@@ -34,17 +34,15 @@ function About() {
         </div>
         <div className="about-info-1">
           <p>BIO</p>
-          <h1>Hello, I'm Tedley Meralus</h1>
-          <h3>The means of learning are abundant, The desire to learn is scarce</h3>
+          <h1>I'm Tedley Meralus</h1>
           <p>
-            I have proceeded my dream to be developer as it has been my lifelong
-            ambition. I am a talented Software Engineer with a strong Linux based background.
+            I have turned my passion into a professional career as it has been my lifelong
+            ambition. I am now a talented Software Engineer with a strong Linux based background.
              I've had the opportunity to enhance my expertise by collaborating with different
-            companies and by creating useful content for both business and
-            customer use.
+            companies and clients and continue to grow as the tech industry does. I do my best to share my experiences and solutions to problems I come across. Feel free to check out some of my work or read my blog. 
             <br />
-            <br />I am naturally perserved, self-confident quietly curious,
-            innovative and constantly challenging my skills.
+            <br />
+          <h3>The means of learning are abundant, The desire to learn is scarce</h3>
           </p>
         </div>
       </div>

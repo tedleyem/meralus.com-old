@@ -2,6 +2,7 @@ import React from "react";
 import twitter from "../assets/icons/twitter-blue96.svg";
 import github from "../assets/icons/github.svg"; 
 import linkedin from "../assets/icons/linkedin.svg";
+import instagram from "../assets/icons/instagram.svg";
 
 function Footer() {
   return (
@@ -12,6 +13,9 @@ function Footer() {
       <div className="foot-icons space-x-rem">
         <div className="foot-icon">
           <img src={twitter} alt="twitter" />
+        </div> 
+        <div className="foot-icon">
+          <img src={instagram} alt="Instagram" />
         </div> 
         <div className="foot-icon">
           <img src={linkedin} alt="linkedin" />

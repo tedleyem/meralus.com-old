@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "./NavBar";
-import meralus from "../assets/images/ted-6-rings-devop.png";
+import meralus from "../assets/images/ted-portfolio.png";
 
 function Header() {
   return (
@@ -8,15 +8,13 @@ function Header() {
       <NavBar />
       <div className="info space-x-2">
         <div className="info-1">
-          <button>Software Engineer</button>
+          <button>Linux Engineer</button>
           <h1>
-            I am,
-            <br /> Because we are.
+            If passion drives you,
+            <br /> let reason hold the reins.
           </h1>
-          <p>
-            I'm a software engineer that likes to build and utilize open source solutions and technologies.
-          </p>
-            <h2><a href="https://github.com/tmeralus">My Projects</a></h2>
+          <a className="green" href="mailto:tmeralus@protonmail.com">Let&#39;s chat!</a>
+
         </div>
         <div className="info-img">
           <img src={meralus} alt="" />

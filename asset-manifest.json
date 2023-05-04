@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.9fb700de.js",
+    "main.js": "/static/js/main.f8c3438d.js",
     "static/js/787.4d3d74c9.chunk.js": "/static/js/787.4d3d74c9.chunk.js",
     "static/media/ted-portfolio.png": "/static/media/ted-portfolio.15fd7ef98d903c339679.png",
     "static/media/ielectro-fix-solutions.png": "/static/media/ielectro-fix-solutions.b278ddc2d0edd2d12fa3.png",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/ansible-icon.svg": "/static/media/ansible-icon.ab91e3a61a54ef3edcded923e3d711d6.svg",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.9fb700de.js.map": "/static/js/main.9fb700de.js.map",
+    "main.f8c3438d.js.map": "/static/js/main.f8c3438d.js.map",
     "787.4d3d74c9.chunk.js.map": "/static/js/787.4d3d74c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.9fb700de.js"
+    "static/js/main.f8c3438d.js"
   ]
 }

@@ -1,17 +1,16 @@
-import React, { Fragment } from "react";
-import logo from "./logo.svg";
+import React, { Fragment } from "react"; 
 import "./App.css";
 import Header from "./components/Header";
-import About from "./components/About";
+import About from "./components/About"; 
 import Footer from "./components/Footer";
 
 function App() {
   return (
     <Fragment>
       <Header />
-      <About />
+      <About /> 
       <Footer />
-    </Fragment>
+    </Fragment> 
   );
 }
 

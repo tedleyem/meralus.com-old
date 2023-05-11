@@ -1,5 +1,5 @@
 import React from "react";
-import twitter from "../assets/icons/twitter-blue96.svg";
+import twitter from "../assets/icons/twitter-white-2.svg";
 import github from "../assets/icons/github.svg"; 
 import linkedin from "../assets/icons/linkedin.svg";
 import instagram from "../assets/icons/instagram.svg";
@@ -12,16 +12,24 @@ function Footer() {
       </div>
       <div className="foot-icons space-x-rem">
         <div className="foot-icon">
+        <a href="https://twitter.com/techdadteddy" target="_blank" rel="noreferrer">
           <img src={twitter} alt="twitter" />
+        </a>
         </div> 
         <div className="foot-icon">
+        <a href="https://instagram.com/techdadteddy" target="_blank" rel="noreferrer">
           <img src={instagram} alt="Instagram" />
+        </a>
         </div> 
         <div className="foot-icon">
+        <a href="https://linkedin.com/in/tmeralus" target="_blank" rel="noreferrer"> 
           <img src={linkedin} alt="linkedin" />
+        </a>
         </div>
         <div className="foot-icon">
+        <a href="https://github.com/tmeralus" target="_blank" rel="noreferrer">
           <img src={github} alt="github" />
+        </a>
         </div> 
       </div>
     </footer>

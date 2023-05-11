@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "./NavBar";
-import meralus from "../assets/images/ted-portfolio.png";
+import meralus from "../assets/images/techdadteddy_cartoon_transparent-.png";
 
 function Header() {
   return (
@@ -9,11 +9,16 @@ function Header() {
       <div className="info space-x-2">
         <div className="info-1">
           <button>Linux Engineer</button>
-          <h1>
-            If passion drives you,
-            <br /> let reason hold the reins.
+          <br />
+          <h1>If passion drives you,
+            <br />let reason hold the reins.
           </h1>
-          <a className="green" href="mailto:tmeralus@protonmail.com">Let&#39;s chat!</a>
+          <br />
+          <p className="gray">I develop and design web and linux based solutions, and I love what I do.</p>
+          <br />
+          <a href="https://twitter.com/techdadteddy">
+          <button>Let's Chat</button>
+          </a>
 
         </div>
         <div className="info-img">

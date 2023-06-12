@@ -4,6 +4,8 @@ import devopslogo from "../assets/icons/icons8-cloud-96-white.png";
 import consultinglogo from "../assets/icons/icons8-linux-100-light.png";
 import programminglogo from "../assets/icons/icons8-programming-48-white.png"; 
 import Ielectro from "../assets/images/partners/ielectro-fix-solutions.png";  
+import Whovisions from "../assets/images/partners/who-visions-logo.png";  
+import SuperDave from "../assets/images/partners/superdave-for-hire-transparent.png";  
 
 function About() {
   return (
@@ -63,10 +65,12 @@ function About() {
           <img src={Ielectro} alt="IelectroFix Solutions" />
           </a></div>
         <div className="pat-img marg-top-2">
-          <img src="" alt="" />
+          <a href='https://instagram.com/whovisions'>
+          <img src={Whovisions} alt="WhoVisions Photography" />
         </div>
         <div className="pat-img marg-top-2">
-          <img src="" alt="" />
+          <a href='https://superdaveforhire.com'>
+          <img src={SuperDave} alt="SuperDave For Hire" />
         </div>
         <div className="pat-img marg-top-2">
           <img src="" alt="" />

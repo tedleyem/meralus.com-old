@@ -67,11 +67,11 @@ function About() {
         <div className="pat-img marg-top-2">
           <a href='https://instagram.com/whovisions'>
           <img src={Whovisions} alt="WhoVisions Photography" />
-        </div>
+          </a></div>
         <div className="pat-img marg-top-2">
           <a href='https://superdaveforhire.com'>
           <img src={SuperDave} alt="SuperDave For Hire" />
-        </div>
+          </a></div>
         <div className="pat-img marg-top-2">
           <img src="" alt="" />
         </div>

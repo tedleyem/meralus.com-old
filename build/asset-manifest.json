@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db241a91.css",
+    "main.js": "/static/js/main.bc552ca9.js",
+    "static/js/787.4d3d74c9.chunk.js": "/static/js/787.4d3d74c9.chunk.js",
+    "static/media/techdadteddy_cartoon_transparent-.png": "/static/media/techdadteddy_cartoon_transparent-.bef170faff7a90a9b840.png",
+    "static/media/ielectro-fix-solutions.png": "/static/media/ielectro-fix-solutions.b278ddc2d0edd2d12fa3.png",
+    "static/media/superdave-for-hire-transparent.png": "/static/media/superdave-for-hire-transparent.3cd653f0151e754e29b6.png",
+    "static/media/who-visions-logo.png": "/static/media/who-visions-logo.8c6ada191fcd762170f8.png",
+    "static/media/icons8-linux-100-light.png": "/static/media/icons8-linux-100-light.db8904c2e37f1637b639.png",
+    "static/media/twitter-white-2.svg": "/static/media/twitter-white-2.a36273c1904d4752c5e91bfd48e276fb.svg",
+    "static/media/github.svg": "/static/media/github.fb1d57c402100561e2213bdd81889356.svg",
+    "static/media/instagram.svg": "/static/media/instagram.f6fd93d57f678d2d44df0b0a87453a37.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.8e805d2b33d5651134dc51612d0c46ef.svg",
+    "index.html": "/index.html",
+    "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
+    "main.bc552ca9.js.map": "/static/js/main.bc552ca9.js.map",
+    "787.4d3d74c9.chunk.js.map": "/static/js/787.4d3d74c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db241a91.css",
+    "static/js/main.bc552ca9.js"
+  ]
+}

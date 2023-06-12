@@ -5,7 +5,7 @@ import consultinglogo from "../assets/icons/icons8-linux-100-light.png";
 import programminglogo from "../assets/icons/icons8-programming-48-white.png"; 
 import Ielectro from "../assets/images/partners/ielectro-fix-solutions.png";  
 import Whovisions from "../assets/images/partners/who-visions-logo.png";  
-import SuperDave from "../assets/images/partners/superdave-for-hire-transparent.png";  
+import SuperDave from "../assets/images/partners/superdave-for-hire.png";  
 
 function About() {
   return (

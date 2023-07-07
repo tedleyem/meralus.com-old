@@ -69,7 +69,7 @@ function About() {
           <img src={Whovisions} alt="WhoVisions Photography" />
           </a></div>
         <div className="pat-img marg-top-2">
-          <a href='https://superdaveforhire.com'>
+          <a href='https://linktr.ee/superdaveforhire'>
           <img src={SuperDave} alt="SuperDave For Hire" />
           </a></div>
         <div className="pat-img marg-top-2">

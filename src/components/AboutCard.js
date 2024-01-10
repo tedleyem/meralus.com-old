@@ -12,7 +12,7 @@ function AboutCard({ title, icon, desc, buttontext, url }) {
       </a>
       </div>
       <div className="about-card-icon">
-        <img src={icon}/>
+        <img src={icon} alt={''} />
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.ba4eb059.js",
+    "main.js": "/static/js/main.fbf2e651.js",
     "static/js/787.74b0986e.chunk.js": "/static/js/787.74b0986e.chunk.js",
     "static/media/techdadteddy_cartoon_transparent-.png": "/static/media/techdadteddy_cartoon_transparent-.bef170faff7a90a9b840.png",
     "static/media/superdave-for-hire.png": "/static/media/superdave-for-hire.51d8544d245c54937b34.png",
@@ -14,11 +14,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.8e805d2b33d5651134dc51612d0c46ef.svg",
     "index.html": "/index.html",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.ba4eb059.js.map": "/static/js/main.ba4eb059.js.map",
+    "main.fbf2e651.js.map": "/static/js/main.fbf2e651.js.map",
     "787.74b0986e.chunk.js.map": "/static/js/787.74b0986e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.ba4eb059.js"
+    "static/js/main.fbf2e651.js"
   ]
 }

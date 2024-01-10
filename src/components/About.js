@@ -16,8 +16,8 @@ function About() {
             title="Linux"
             desc="I share my IT journey through Linux and cloud computing when I can"
             icon={consultinglogo} 
-            buttontext="blogs" 
-            url={""}
+            buttontext="blog"
+            url={"https://blog.meralus.com"}
           />
           <AboutCard
             title="Cloud & Devops"
@@ -27,10 +27,17 @@ function About() {
             url={"https://github.com/tmeralus?tab=repositories"}
           />
           <AboutCard
-            title="IT Consulting"
-            desc="I've partnered with IElectroFix Solutions to provide services for hardware and software related issues."
+            title="Web"
+            desc="I build landing pages and fix web related issues with ReactJS and Wordpress"
             icon={programminglogo} 
-            buttontext="Services" 
+            buttontext="Sites"
+            url={"https://links.meralus.com"}
+          />
+          <AboutCard
+            title="IT Consulting"
+            desc="I've provide IT consulting and have a partnership with IElectroFix Solutions to provide hardware and PC related services."
+            icon={programminglogo}
+            buttontext="Services"
             url={"https://ielectrosolutions.com/"}
           />
         </div>

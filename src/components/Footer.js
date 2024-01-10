@@ -5,10 +5,12 @@ import linkedin from "../assets/icons/linkedin.svg";
 import instagram from "../assets/icons/instagram.svg";
 
 function Footer() {
+  let date = new Date();
+  let year = date.getFullYear();
   return (
     <footer>
       <div className="copyright">
-        <h3>copyright © 2023 Tedley Meralus - All rights reserved.</h3>
+        <h3>copyright © {year} Tedley Meralus - All rights reserved.</h3>
       </div>
       <div className="foot-icons space-x-rem">
         <div className="foot-icon">
@@ -27,7 +29,7 @@ function Footer() {
         </a>
         </div>
         <div className="foot-icon">
-        <a href="https://github.com/tmeralus" target="_blank" rel="noreferrer">
+        <a href="https://github.com/tedleyem" target="_blank" rel="noreferrer">
           <img src={github} alt="github" />
         </a>
         </div> 

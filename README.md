@@ -1,4 +1,12 @@
 # Developer Portfolio 
+
+* Header.js - Update image and tagline
+* About.js - Update Image Links
+* Footer.js - Update Social Media Handles
+
+
+
+
 ![Screenshot](dev-portfolio.png)
 
 

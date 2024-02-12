@@ -10,14 +10,14 @@ function Header() {
         <div className="info-1">
           <button>Linux Engineer</button>
           <br />
-          <h1>If passion drives you,
-            <br />let reason hold the reins.
+          <h1>An investment in knowledge
+            <br /> pays the best interest.
           </h1>
           <br />
           <p className="gray">I develop and design web and linux based solutions, and I love what I do.</p>
           <br />
           <a href="https://twitter.com/techdadteddy">
-          <button>Let's Chat</button>
+          <button>Chat on Twitter</button>
           </a>
 
         </div>

@@ -6,6 +6,7 @@ import programminglogo from "../assets/icons/icons8-programming-48-white.png";
 import Ielectro from "../assets/images/partners/ielectro-fix-solutions.png";  
 import Whovisions from "../assets/images/partners/who-visions-logo.png";  
 import SuperDave from "../assets/images/partners/superdave-for-hire.png";  
+import Mercury from "../assets/images/partners/landed-on-mercury2.png";
 
 function About() {
   return (
@@ -14,7 +15,7 @@ function About() {
         <div className="about-cards">
           <AboutCard
             title="Linux"
-            desc="I share my IT journey through Linux and cloud computing when I can"
+            desc="I share my IT journey through Linux and random thoughts on the internet"
             icon={consultinglogo} 
             buttontext="blog"
             url={"https://blog.meralus.com"}
@@ -35,10 +36,10 @@ function About() {
           />
           <AboutCard
             title="IT Consulting"
-            desc="I've provide IT consulting and have a partnership with IElectroFix Solutions to provide hardware and PC related services."
+            desc="I provide IT consulting in the local West Palm Beach Florida area that ranges from hardware, software, mobile, and PC related services."
             icon={programminglogo}
             buttontext="Services"
-            url={"https://ielectrosolutions.com/"}
+            url={"https://meralus.com/services"}
           />
         </div>
         <div className="about-info-1">
@@ -49,8 +50,8 @@ function About() {
             Based in South Florida, I am a Linux Engineer 
             who has turned my passion into a professional career
             over the past decade I've had the opportunity to work with different
-            companies and independantly collaborate with clients 
-            to deliver and devlop a list of services and solutions. 
+            companies and collaborate with clients
+            to deliver and develop a list of services and solutions.
             <br />
             <br /> 
             In my free time, when im not watching my daughter amaze me as she grows, 
@@ -63,6 +64,7 @@ function About() {
             <br />
             A quote I learn and live by: 
           <h3>The means of learning are abundant, The desire to learn is scarce</h3>
+          <h3>An investment in knowledge pays the best interest</h3>
           </p>
         </div>
       </div>
@@ -72,16 +74,17 @@ function About() {
           <img src={Ielectro} alt="IelectroFix Solutions" />
           </a></div>
         <div className="pat-img marg-top-2">
-          <a href='https://instagram.com/whovisions'>
+          <a href='https://whovisionspresents.com'>
           <img src={Whovisions} alt="WhoVisions Photography" />
           </a></div>
         <div className="pat-img marg-top-2">
-          <a href='https://linktr.ee/superdaveforhire'>
+          <a href='https://superdaveforhire.com'>
           <img src={SuperDave} alt="SuperDave For Hire" />
           </a></div>
         <div className="pat-img marg-top-2">
-          <img src="" alt="" />
-        </div>
+          <a href='https://landedonmercury.com'>
+          <img src={Mercury} alt="Landed On Mercury" />
+          </a></div>
         <div className="pat-img marg-top-2">
           <img src="" alt="" />
         </div>

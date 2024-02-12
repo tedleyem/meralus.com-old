@@ -16,6 +16,9 @@ function NavBar() {
           <li>
             <a href="#about">About Me.</a>
           </li> 
+          <li>
+            <a href="https://github.com/tedleyem">Projects</a>
+          </li>
         </ul>
       </div>
     </nav>

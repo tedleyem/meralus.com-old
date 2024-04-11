@@ -1,17 +1,12 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
-
 name: Node.js CI
-
 on:
   push:
     branches: [ "main" ]
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [18.x]
@@ -26,7 +21,6 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: react-scripts build && rm -rf docs && mv build docs
-#    - run: npm test
     - uses: JS-DevTools/npm-publish@v3
       with:
          token: ${{ secrets.GITHUB_TOKEN }}

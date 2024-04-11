@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.1d3411d4.js",
+    "main.js": "/static/js/main.b44e031a.js",
     "static/js/787.74b0986e.chunk.js": "/static/js/787.74b0986e.chunk.js",
     "static/media/landed-on-mercury2.png": "/static/media/landed-on-mercury2.f76d0ba02fe630d42574.png",
     "static/media/techdadteddy_cartoon_transparent-.png": "/static/media/techdadteddy_cartoon_transparent-.bef170faff7a90a9b840.png",
@@ -15,11 +15,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.8e805d2b33d5651134dc51612d0c46ef.svg",
     "index.html": "/index.html",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.1d3411d4.js.map": "/static/js/main.1d3411d4.js.map",
+    "main.b44e031a.js.map": "/static/js/main.b44e031a.js.map",
     "787.74b0986e.chunk.js.map": "/static/js/787.74b0986e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.1d3411d4.js"
+    "static/js/main.b44e031a.js"
   ]
 }

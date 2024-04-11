@@ -22,7 +22,7 @@ jobs:
     - name: Install
     - run: npm i
     - name: Build into docs dir
-    - run: npm run build
+    - run: npm run build react-scripts build && rm -rf docs && cp build docs # needs to be fixed 
    #- run: react-scripts build && rm -rf docs && mv build docs
     - uses: JS-DevTools/npm-publish@v3
       with:

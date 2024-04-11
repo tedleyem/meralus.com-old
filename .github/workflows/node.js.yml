@@ -28,6 +28,6 @@ jobs:
     - run: react-scripts build && rm -rf docs && mv build docs
 #    - run: npm test
     - uses: JS-DevTools/npm-publish@v3
-       with:
+      with:
          token: ${{ secrets.GITHUB_TOKEN }}
 

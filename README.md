@@ -9,12 +9,11 @@
  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Deploy
-clone this repository
+## Deploy on github 
 then run the following commands
 ```
- $ npm ci
- $ npm run build --if-present
+ $ npm i 
+ $ npm run build 
  $ npm run deploy
 ```
 

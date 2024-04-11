@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.db241a91.css",
-    "main.js": "/static/js/main.fbf2e651.js",
+    "main.js": "/static/js/main.b44e031a.js",
     "static/js/787.74b0986e.chunk.js": "/static/js/787.74b0986e.chunk.js",
+    "static/media/landed-on-mercury2.png": "/static/media/landed-on-mercury2.f76d0ba02fe630d42574.png",
     "static/media/techdadteddy_cartoon_transparent-.png": "/static/media/techdadteddy_cartoon_transparent-.bef170faff7a90a9b840.png",
     "static/media/superdave-for-hire.png": "/static/media/superdave-for-hire.51d8544d245c54937b34.png",
     "static/media/ielectro-fix-solutions.png": "/static/media/ielectro-fix-solutions.b278ddc2d0edd2d12fa3.png",
@@ -14,11 +15,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.8e805d2b33d5651134dc51612d0c46ef.svg",
     "index.html": "/index.html",
     "main.db241a91.css.map": "/static/css/main.db241a91.css.map",
-    "main.fbf2e651.js.map": "/static/js/main.fbf2e651.js.map",
+    "main.b44e031a.js.map": "/static/js/main.b44e031a.js.map",
     "787.74b0986e.chunk.js.map": "/static/js/787.74b0986e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db241a91.css",
-    "static/js/main.fbf2e651.js"
+    "static/js/main.b44e031a.js"
   ]
 }

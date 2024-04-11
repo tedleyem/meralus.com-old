@@ -39,7 +39,7 @@ function About() {
             desc="I provide IT consulting in the local West Palm Beach Florida area that ranges from hardware, software, mobile, and PC related services."
             icon={programminglogo}
             buttontext="Services"
-            url={"tedley.square.site"}
+            url={"https://tedley.square.site"}
           />
         </div>
         <div className="about-info-1">

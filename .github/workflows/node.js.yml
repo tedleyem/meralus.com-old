@@ -19,8 +19,11 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - name: Install
     - run: npm i
-    - run: react-scripts build && rm -rf docs && mv build docs
+    - name: Build into docs dir
+    - run: npm run build
+   #- run: react-scripts build && rm -rf docs && mv build docs
     - uses: JS-DevTools/npm-publish@v3
       with:
          token: ${{ secrets.GITHUB_TOKEN }}
